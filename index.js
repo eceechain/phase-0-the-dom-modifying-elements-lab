@@ -1,1 +1,2 @@
-// Write your code here!
+const mainNode = document.getElementById('main');
+mainNode.remove();
